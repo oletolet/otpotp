@@ -7,7 +7,7 @@ from datetime import datetime
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-API_KEY = "pxbr_live_co8touhm9hr4s7z0l9ikxa08"
+API_KEY = "pxbr_live_1o1fsnq0o6fwi9vf9nc0una8"
 API_BASE = "https://api.paxbar.id/api/v1/otp"
 
 class C:
